@@ -2,7 +2,7 @@
 
 ```
 This is a Mini E-Commerce project with a frontend built in React & Redux and a backend built in Django API.
-Customers can login and order a bicycle from the app
+Customers can login and order a bike from the app
 
 ```
 
