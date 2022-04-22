@@ -26,7 +26,7 @@ Check out [API LIVE DEMO](https://bikesway-backend.herokuapp.com/) here!!
 1. Git Clone
 
 ```
-
+Git Clone https://github.com/Estabrok/bikesway
 ```
 
 2. Backend setting
